@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "register";
+}
+
+    <header>
+        <h1>Inicia Sesión</h1>
+        <script>
+            var attempt = 3; 
+            function validate(){
+            var username = document.getElementById("uname").value;
+            var password = document.getElementById("upass").value;
+            if ( username == "Admin" && password == "1234"){
+                alert ("Inicio de Sesion Exitoso");
+                window.location = "/Us/Index";
+                return false;
+            }
+            else{
+               
+                alert("Usuario o clave Incorrecto");
+              
+                if( attempt == 0){
+                    document.getElementById("username").disabled = true;
+                    document.getElementById("password").disabled = true;
+                    document.getElementById("submit").disabled = true;
+                    return false;
+                }
+            }
+        }
+        </script>
+    </header> 
+    <body>
+        <h3>Inicie sesión en una cuenta</h3>
+        <div>
+            <!--Nombre Usuario-->
+            <form method="Post">
+            <div>
+                <label for="nombre">Nombre de Usuario:</label><br>
+                <input type="text" id="uname" name="uname" maxlength="32" required>
+
+            <!--Password-->
+            <div>
+                <label for="pass">Password:</label><br>
+                <input type="password" id="upass" name="upass" maxlength="8" required>
+            
+            </div>
+            <br>
+                <input type="button" value="Login" id="submit" onclick="validate()"/>
+            <br/>
+            </form>
+        </div>
+    </body>
+    <footer> 
+        ©2016 <a href="">Otoniel Lopez Lopez</a>
+    </footer> 

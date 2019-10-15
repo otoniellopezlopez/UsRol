@@ -1,0 +1,36 @@
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.csprojAssemblyReference.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.csproj.CoreCompileInputs.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.RazorAssemblyInfo.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.RazorAssemblyInfo.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.AssemblyInfoInputs.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.AssemblyInfo.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.deps.json
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.runtimeconfig.json
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.runtimeconfig.dev.json
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.dll
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.Views.dll
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\bin\Debug\netcoreapp2.2\CRUD MVC.Views.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.TagHelpers.input.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.TagHelpers.output.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.RazorCoreGenerate.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.Views.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.dll
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\CRUD MVC.csproj.CopyComplete
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Us\Create.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Us\Delete.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Us\Details.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Us\Edit.g.cshtml.cs
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\CRUD MVC\obj\Debug\netcoreapp2.2\Razor\Views\Us\Index.g.cshtml.cs
